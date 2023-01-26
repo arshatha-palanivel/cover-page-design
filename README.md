@@ -40,7 +40,7 @@ Add images and other contents using CSS record a screenshot of it.
             margin-right: auto;
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-technology-background-technological-sense-science-fiction-modern-picture-image_976242.jpg);
+            background-image: url(static/images/bg.jpg);
             background-size: cover;
         }
             
@@ -123,7 +123,7 @@ Add images and other contents using CSS record a screenshot of it.
                 Develop future-proof responsive websites using the latest HTML5 and CSS Techniques
             </div>
             <div class="photo">
-                <img src="https://o.remove.bg/downloads/245fd9f1-a0ba-45b2-ba07-ed7fc3b2e62e/ben-frain-removebg-preview.png" width="130" height="145" alt="">
+                <img src="static/images/person.png" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: orange;">
